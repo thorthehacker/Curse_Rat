@@ -46,7 +46,7 @@ The project features the **THOR Cyber Dashboard**, a high-fidelity SPA (Single P
 ### 🐧 Linux (Recommended)
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/Curse_RAT.git
+   git clone https://github.com/thorthehacker/Curse_RAT.git
    cd Curse_RAT
    ```
 2. **Install Dependencies**:
@@ -62,7 +62,7 @@ The project features the **THOR Cyber Dashboard**, a high-fidelity SPA (Single P
 ### 🪟 Windows
 1. **Clone the repository**:
    ```powershell
-   git clone https://github.com/your-username/Curse_RAT.git
+   git clone https://github.com/thorthehacker/Curse_RAT.git
    cd Curse_RAT
    ```
 2. **Install Dependencies**:
